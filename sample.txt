@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This file is updated for the First feature branch changes.
+=======
+this is changes for the second github practical.
+>>>>>>> feature2
+Final Merged Content.
